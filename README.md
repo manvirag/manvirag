@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Anubhav
-#### I love Mathematics, Competitive Programming , Machine learning
+#### I love Mathematics >  Competitive Programming > Machine learning > Web development
 
 - 🌱 I’m currently learning more concepts of machine learning.
 - 🤔 I'm currently working on competitive programming
