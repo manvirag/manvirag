@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-I am Anubhav Gupta. I work as a Software Engineer at the platform team [@mindtickle](https://www.mindtickle.com/).
-I like backend software engineering as compared to other fields.
+I'm Anubhav Gupta, a Software Engineer currently contributing to the platform team at [@mindtickle](https://www.mindtickle.com/). You can find my contributions there on [GitLab](https://gitlab.com/anubhavmt) .
 
-
-
-
-
-
-
+I like backend software engineering.
