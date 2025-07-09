@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anubhav Gupta, a Software Engineer currently contributing to the platform team at [@mindtickle](https://www.mindtickle.com/). 
+I'm Anubhav Gupta, a Software Engineer currently contributing to the platform team (core component ) at [@mindtickle](https://www.mindtickle.com/). 
 
 I like backend software engineering mainly system designing, scalability, distributed systems, and databases.
 
